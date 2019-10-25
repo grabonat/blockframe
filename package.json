@@ -1,0 +1,27 @@
+{
+  "name": "blocture",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/troshmir/blocture.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/troshmir/blocture/issues"
+  },
+  "homepage": "https://github.com/troshmir/blocture#readme",
+  "dependencies": {
+    "openzeppelin-solidity": "2.3.0",
+    "react-bootstrap-table": "^4.3.1"
+  }
+}
