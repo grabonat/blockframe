@@ -1,0 +1,1 @@
+const Image = artifacts.require('./Image.sol')
