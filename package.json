@@ -21,6 +21,8 @@
   },
   "homepage": "https://github.com/troshmir/blocture#readme",
   "dependencies": {
+    "chai": "^4.2.0",
+    "chai-as-promised": "^7.1.1",
     "openzeppelin-solidity": "2.3.0",
     "react-bootstrap-table": "^4.3.1",
     "solc": "^0.5.12",
